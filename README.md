@@ -5,7 +5,7 @@ Considering the downloading speed in China, it's **strongly** recommended to run
 ## Usage
 
 ```
-cd ~/JaponxDownloader
+cd ~/JaponxDownloader/src
 
 python3 main.py
 ```
@@ -62,9 +62,11 @@ Linux、macOS 和 Windows 均可。但是，建议在国外的 VPS 上进行下�
 
 **相关模块的安装**
 
+```
 cd ~/JaponxDownloader
 
 pip3 install -r requirement.txt
+```
 
 
 **用法**
@@ -85,6 +87,7 @@ URL 即影片页面的链接，多个链接请使用半角 , 逗号分隔开。
 
 
 ### 目前已经加入的功能：
+
 
 1. 协程下载，加快下载速度；
 
