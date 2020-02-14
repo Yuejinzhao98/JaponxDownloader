@@ -36,7 +36,7 @@ All .ts files will br stored in current directory and be deleted automatically.
 ## 中文文档
 
 
-###由于 Japonx 更换了反爬的方式，此项目已失效，关于如何获取最新代码的方式，请参考(https://github.com/minimAluminiumalism/JaponxDownloader/edit/master/README.md)
+### 由于 Japonx 更换了反爬的方式，此项目已失效，关于如何获取最新代码的方式，请参考(https://github.com/minimAluminiumalism/JaponxDownloader/edit/master/README.md)
 
 ### 硬件和软件平台的选择（重要）
 Linux、macOS 和 Windows 均可。但是，建议在国外的 VPS 上进行下载，经过测试，欧美地区的 VPS 会连接到荷兰 seedhost 的机房，日间下载速度不低于 500Mb/s，而东亚地区由香港的机房提供下载，速度较慢，速度一般只能为 200Mb/s，请选用配置了 SSD 的 VPS，机械硬盘的较慢的写入速度会限制下载速度。
